@@ -1,0 +1,11 @@
+# local file
+.local
+
+# Session Vim
+Session.vim
+
+#tmux client
+tmux-client-58141.log
+
+# viminfo
+viminfo
